@@ -1,0 +1,17 @@
+Questa applicazione ("TicTacToe") non raccoglie, conserva o condivide alcun dato personale degli utenti.
+L'App non richiede la creazione di account, non utilizza servizi di localizzazione, non mostra annunci pubblicitari e non raccoglie alcun tipo di informazione identificabile.
+
+Dati raccolti
+L'App non raccoglie alcun tipo di dato personale o non personale.
+
+Utilizzo delle informazioni
+Non raccogliendo dati, non viene effettuato alcun utilizzo, archiviazione o condivisione di informazioni.
+
+Servizi di terze parti
+L'App non utilizza servizi di terze parti che potrebbero raccogliere informazioni identificabili sugli utenti.
+
+Modifiche alla presente informativa
+Potremmo aggiornare la presente Norme sulla privacy in futuro. Eventuali modifiche saranno pubblicate in questa pagina.
+
+Contatti
+Per qualsiasi domanda riguardo la presente informativa, è possibile contattare lo sviluppatore all'indirizzo email: unravelcrow@gmail.com
